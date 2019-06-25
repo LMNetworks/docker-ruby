@@ -1,4 +1,4 @@
-FROM lmnetworks/alpine:3.9.4_20190523
+FROM lmnetworks/alpine:3.10.0_20190625
 
 LABEL image_name="lmnetworks/ruby"
 LABEL maintainer="info@lm-net.it"
